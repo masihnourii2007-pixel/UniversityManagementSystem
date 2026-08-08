@@ -21,11 +21,11 @@ The dataset (`University_Management_System.xlsx`) is structured as a relational 
 
 `UniversityManagementSystem.pbix` visualizes this data model across 5 report pages:
 
-- **University Overview** â€” KPI cards (total students, professors, courses, enrollments), student trend over time, gender distribution
-- **Academic Performance** â€” average grade, grade distribution, top 10 courses by enrollment
-- **Student Analytics** â€” age distribution, gender vs. enrollment, student activity (scatter)
-- **Department Analysis** â€” number of courses per department, faculty workload (treemap)
-- **Semester Analysis** â€” enrollment trend, most popular semesters, top 10 popular courses
+- **University Overview**  KPI cards (total students, professors, courses, enrollments), student trend over time, gender distribution
+- **Academic Performance**  average grade, grade distribution, top 10 courses by enrollment
+- **Student Analytics**  age distribution, gender vs. enrollment, student activity (scatter)
+- **Department Analysis**  number of courses per department, faculty workload (treemap)
+- **Semester Analysis**  enrollment trend, most popular semesters, top 10 popular courses
 
 ## Files
 
