@@ -33,6 +33,3 @@ The dataset (`University_Management_System.xlsx`) is structured as a relational 
 - `UniversityManagementSystem.pbix`  Power BI report
 - `UniversityManagementSystem.sql` SQL Database
 - `csv/`  CSV datasets
-## Notes
-
-No Python script was included in this delivery â€” if you'd like data-generation or ETL code documented here as well, share the file and I'll fold it in.
