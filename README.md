@@ -29,9 +29,10 @@ The dataset (`University_Management_System.xlsx`) is structured as a relational 
 
 ## Files
 
-- `University_Management_System.xlsx` â€” source data (6 tables)
-- `UniversityManagementSystem.pbix` â€” Power BI report
-
+- `University_Management_System.xlsx`  source data (6 tables)
+- `UniversityManagementSystem.pbix`  Power BI report
+- `UniversityManagementSystem.sql` SQL Database
+- `csv/`  CSV datasets
 ## Notes
 
 No Python script was included in this delivery â€” if you'd like data-generation or ETL code documented here as well, share the file and I'll fold it in.
