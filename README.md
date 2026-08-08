@@ -1,6 +1,6 @@
 # University Management System
 
-A relational dataset and Power BI dashboard modeling a university's academic operations â€” departments, professors, courses, students, and enrollments.
+A relational dataset and Power BI dashboard modeling a university's academic operations departments, professors, courses, students, and enrollments.
 
 ## Data Model
 
